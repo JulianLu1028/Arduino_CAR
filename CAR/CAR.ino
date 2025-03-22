@@ -8,6 +8,8 @@
 PS2X ps2x; 
 int error;
 
+//12345
+
 //smt_rx = start movinig time rx, and so on
 int old_raw_rx = 5;
 int old_raw_ly = 5;
