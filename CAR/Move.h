@@ -8,7 +8,7 @@
 
  //匯入arduino核心標頭檔案
  #include "Arduino.h"
-
+//1234567
 
  class MOVE
  {
